@@ -1,0 +1,5 @@
+#！/bin/bash
+change then status
+pipeline {
+	/*块注释*/
+}
